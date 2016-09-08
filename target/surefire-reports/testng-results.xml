@@ -2,15 +2,15 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="test.NewTest" duration-ms="5720" started-at="2016-09-07T13:33:02Z" finished-at="2016-09-07T13:33:08Z">
+  <suite name="test.NewTest" duration-ms="3068" started-at="2016-09-08T08:46:30Z" finished-at="2016-09-08T08:46:33Z">
     <groups>
     </groups>
-    <test name="Command line test" duration-ms="5720" started-at="2016-09-07T13:33:02Z" finished-at="2016-09-07T13:33:08Z">
+    <test name="Command line test" duration-ms="3068" started-at="2016-09-08T08:46:30Z" finished-at="2016-09-08T08:46:33Z">
       <class name="test.NewTest">
-        <test-method status="PASS" signature="checkTest()[pri:0, instance:test.NewTest@59a6e353]" name="checkTest" duration-ms="5709" started-at="2016-09-07T19:03:02Z" finished-at="2016-09-07T19:03:08Z">
+        <test-method status="PASS" signature="checkIETest()[pri:0, instance:test.NewTest@59a6e353]" name="checkIETest" duration-ms="3059" started-at="2016-09-08T14:16:30Z" finished-at="2016-09-08T14:16:33Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- checkTest -->
+        </test-method> <!-- checkIETest -->
       </class> <!-- test.NewTest -->
     </test> <!-- Command line test -->
   </suite> <!-- test.NewTest -->
