@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="test.NewTest" duration-ms="16226" started-at="2016-09-12T11:45:54Z" finished-at="2016-09-12T11:46:10Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="16226" started-at="2016-09-12T11:45:54Z" finished-at="2016-09-12T11:46:10Z">
+      <class name="test.NewTest">
+        <test-method status="PASS" signature="checkIETest()[pri:0, instance:test.NewTest@59a6e353]" name="checkIETest" duration-ms="8" started-at="2016-09-12T17:15:54Z" finished-at="2016-09-12T17:15:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkIETest -->
+        <test-method status="PASS" signature="checkTest()[pri:0, instance:test.NewTest@59a6e353]" name="checkTest" duration-ms="16207" started-at="2016-09-12T17:15:54Z" finished-at="2016-09-12T17:16:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkTest -->
+      </class> <!-- test.NewTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- test.NewTest -->
+</testng-results>
